@@ -23,6 +23,8 @@ The model captured monsoon-driven fire suppression without being told
 about seasonality. Fire probability dropped from 93.4% in March to 4.4% 
 in June purely from ERA5 humidity and precipitation signals.
 
+This suggests the model is implicitly responding to large-scale ocean-atmosphere forcing such as the Indian Ocean Dipole, which modulates monsoon onset timing over Northeast India.
+
 ## Data sources
 - Fire detections: NASA FIRMS MODIS (March 2026, real-time)
 - Weather: Open-Meteo ERA5 reanalysis API
