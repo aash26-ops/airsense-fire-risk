@@ -1,0 +1,6 @@
+gradio
+scikit-learn
+xgboost
+numpy
+pandas
+requests
